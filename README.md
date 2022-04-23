@@ -1,2 +1,2 @@
 # pandasDateTime
-### Under construction 
+### How does pandas deal with dates? 
