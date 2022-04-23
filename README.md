@@ -5,7 +5,7 @@
 4. Get the week of year, the day of week, and leap year.<br/>
 5. Get the age from the date of birth.<br/>
 6. Improve performance by setting date column as the index.<br/>
-Select data with a specific year and perform aggregation.<br/>
+7. Select data with a specific year and perform aggregation.<br/>
 Select data with a specific month and a specific day of the month.<br/>
 Select data between two dates.<br/>
 Handle missing values.<br/>
