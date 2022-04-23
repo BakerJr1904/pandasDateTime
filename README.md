@@ -4,4 +4,4 @@
 3. Get year, month and day.<br/>
 4. Get the week of year, the day of week, and leap year.<br/>
 5. Get the age from the date of birth.<br/>
-Improve performance by setting date column as the index.<br/>
+6. Improve performance by setting date column as the index.<br/>
