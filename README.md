@@ -7,5 +7,5 @@
 6. Improve performance by setting date column as the index.<br/>
 7. Select data with a specific year and perform aggregation.<br/>
 8. Select data with a specific month and a specific day of the month.<br/>
-Select data between two dates.<br/>
+9. Select data between two dates.<br/>
 Handle missing values.<br/>
