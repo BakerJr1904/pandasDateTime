@@ -12,6 +12,7 @@ The simplest solution to get age is by subtracting year.
 #### 6. Improve performance by setting date column as the index.<br/>
 A common solution to select data by date is using a boolean maks.
 #### 7. Select data with a specific year and perform aggregation.<br/>
+Let’s say we would like to select all data in the year 2018 - df.loc['2018']
 #### 8. Select data with a specific month and a specific day of the month.<br/>
 #### 9. Select data between two dates.<br/>
 #### 10. Handle missing values.<br/>
