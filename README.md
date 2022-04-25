@@ -2,6 +2,7 @@
 #### 1. Convert strings to datetime.<br/>
 Pandas has a built-in function called to_datetime() that can be used to convert strings to datetime.
 #### 2. Assemble a datetime from multiple columns.<br/>
+to_datetime() can be used to assemble a datetime from multiple columns as well. The keys (columns label) can be common abbreviations like [‘year’, ‘month’, ‘day’, ‘minute’, ‘second’, ‘ms’, ‘us’, ‘ns’]) or plurals of the same.
 #### 3. Get year, month and day.<br/>
 #### 4. Get the week of year, the day of week, and leap year.<br/>
 #### 5. Get the age from the date of birth.<br/>
