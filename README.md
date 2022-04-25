@@ -8,6 +8,7 @@ dt.year, dt.month and dt.day are the inbuilt attributes to get year, month , and
 #### 4. Get the week of year, the day of week, and leap year.<br/>
 Similarly, dt.week, dt.dayofweek, and dt.is_leap_year are the inbuilt attributes to get the week of year, the day of week, and leap year.
 #### 5. Get the age from the date of birth.<br/>
+The simplest solution to get age is by subtracting year.
 #### 6. Improve performance by setting date column as the index.<br/>
 #### 7. Select data with a specific year and perform aggregation.<br/>
 #### 8. Select data with a specific month and a specific day of the month.<br/>
