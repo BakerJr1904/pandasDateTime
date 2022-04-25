@@ -1,5 +1,5 @@
 # How does pandas deal with dates? 
-#### 1. Convert strings to datetime.<br/>
+#### 1. Convert strings to datetime.
 Pandas has a built-in function called to_datetime() that can be used to convert strings to datetime.
 #### 2. Assemble a datetime from multiple columns.<br/>
 to_datetime() can be used to assemble a datetime from multiple columns as well. The keys (columns label) can be common abbreviations like [‘year’, ‘month’, ‘day’, ‘minute’, ‘second’, ‘ms’, ‘us’, ‘ns’]) or plurals of the same.
