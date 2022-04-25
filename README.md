@@ -10,6 +10,7 @@ Similarly, dt.week, dt.dayofweek, and dt.is_leap_year are the inbuilt attributes
 #### 5. Get the age from the date of birth.<br/>
 The simplest solution to get age is by subtracting year.
 #### 6. Improve performance by setting date column as the index.<br/>
+A common solution to select data by date is using a boolean maks.
 #### 7. Select data with a specific year and perform aggregation.<br/>
 #### 8. Select data with a specific month and a specific day of the month.<br/>
 #### 9. Select data between two dates.<br/>
