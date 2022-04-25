@@ -16,4 +16,5 @@ Let’s say we would like to select all data in the year 2018 - df.loc['2018']
 #### 8. Select data with a specific month and a specific day of the month.<br/>
 To select data with a specific month, for example, May 2018 - df.loc['2018-5']
 #### 9. Select data between two dates.<br/>
+To select data between two dates, you can use - df.loc[start_date:end_date]
 #### 10. Handle missing values.<br/>
